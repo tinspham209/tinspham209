@@ -48,6 +48,8 @@
 
 <img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=tinspham209" />
 
+<br />
+
 <img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinspham209&layout=compact" />
 
 [website]: https://tinspham.dev
