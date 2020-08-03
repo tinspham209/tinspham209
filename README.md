@@ -1,9 +1,12 @@
-### Hi there, I'm Tin Pham - aka Tins 👋
+### Hi there, I'm Tins 👋
 
-## I'm a Software Engineering
+## I'm a Pham Van Tin
 
-- Student of Duy Tan University in Danang, Vietnam
-- A fresher developer using React for Web development
+- 🌏 Lives: Da Nang city, Vietnam
+- 📨 Email: tinphamvan123@gmail.com
+- 💡 Languages: English, Vietnamese
+- 🏡 Education: Student of Duy Tan University
+- ⚡ Working: A fresher developer using React for Web development
 
 ### Connect with me:
 
