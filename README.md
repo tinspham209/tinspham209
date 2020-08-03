@@ -1,12 +1,11 @@
 ## Hi there, I'm Tin Van Pham - aka Tins 👋
 
-🌏 Lives: Da Nang city, Vietnam
-📨 Email: tinphamvan123@gmail.com
-🎓 Languages: English, Vietnamese
-📕 Education: Student of Duy Tan University
-⚡ Working:
-
-- A fresher developer using React for Web development
+- 🌏 Lives: Da Nang city, Vietnam
+- 📨 Email: tinphamvan123@gmail.com
+- 🎓 Languages: English, Vietnamese
+- 📕 Education: Student of Duy Tan University
+- ⚡ Working:
+  - A fresher developer using React for Web development
 
 ### Connect with me:
 
