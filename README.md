@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="tinspham.dev" width="22px" src="https://img.icons8.com/fluent/48/000000/domain.png" />][website]
+[<img align="left" alt="tinspham.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://img.icons8.com/plasticine/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluent/100/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
