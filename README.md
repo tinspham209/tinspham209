@@ -31,7 +31,7 @@
 <br />
 <br />
 
-<img align="left" alt="TopLang" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=tinspham209&layout=compact" />
+<img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinspham209&layout=compact" />
 
 [website]: https://tinspham.dev
 [facebook]: https://fb.com/tinspham.209
