@@ -1,6 +1,4 @@
-### Hi there, I'm Tins 👋
-
-## My name is Tin Van Pham
+## Hi there, I'm Tin Van Pham - aka Tins 👋
 
 - 🌏 Lives: Da Nang city, Vietnam
 - 📨 Email: tinphamvan123@gmail.com
