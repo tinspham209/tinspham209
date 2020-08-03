@@ -1,6 +1,9 @@
-### Hi there, I'm Tins 👋
+### Hi there, I'm Tin Pham - aka Tins 👋
 
-## I'm a software engineering, student of Duy Tan University, Danang
+## I'm a Software Engineering
+
+- Student of Duy Tan University in Danang, Vietnam
+- A fresher developer using React for Web development
 
 ### Connect with me:
 
