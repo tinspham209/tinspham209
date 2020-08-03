@@ -1,17 +1,19 @@
 ## Hi there, I'm Tin Van Pham - aka Tins 👋
 
-- 🌏 Lives: Da Nang city, Vietnam
-- 📨 Email: tinphamvan123@gmail.com
-- 🎓 Languages: English, Vietnamese
-- 📕 Education: Student of Duy Tan University
-- ⚡ Working: A fresher developer using React for Web development
+🌏 Lives: Da Nang city, Vietnam
+📨 Email: tinphamvan123@gmail.com
+🎓 Languages: English, Vietnamese
+📕 Education: Student of Duy Tan University
+⚡ Working:
+
+- A fresher developer using React for Web development
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tinspham.dev" width="22px" src="https://img.icons8.com/fluent/48/000000/domain.png" />][website]
 
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://img.icons8.com/plasticine/48/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluent/100/000000/instagram-new.png" />][instagram]
 
 <br />
 
