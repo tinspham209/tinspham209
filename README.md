@@ -34,6 +34,11 @@
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/nolan/64/github.png"/>][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/fluent/48/000000/console.png" />][webdevplaylist]
+[<img align="left" alt="Photoshop" width="26px" src="https://img.icons8.com/fluent/50/000000/adobe-photoshop.png" />][webdevplaylist]
+[<img align="left" alt="Premiere" width="26px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" />][webdevplaylist]
+[<img align="left" alt="AE" width="26px" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" />][webdevplaylist]
+[<img align="left" alt="trello" width="26px" src="https://img.icons8.com/color/48/000000/trello.png" />][webdevplaylist]
+[<img align="left" alt="slack" width="26px" src="https://img.icons8.com/color/48/000000/slack-new.png" />][webdevplaylist]
 
 <br />
 <br />
