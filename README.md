@@ -6,6 +6,8 @@
 - 📕 Education: Student of Duy Tan University
 - ⚡ Working:
   - A fresher developer using React for Web development
+  - Learning Python for Data Science
+  - Learning Data Warehouse
 
 ### Connect with me:
 
