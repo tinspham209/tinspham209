@@ -31,6 +31,8 @@
 <br />
 <br />
 
+<img align="left" alt="TopLang" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=tinspham209&show_icons=true&hide_border=true" />
+
 [website]: https://tinspham.dev
 [facebook]: https://fb.com/tinspham.209
 [instagram]: https://instagram.com/phamthitins
