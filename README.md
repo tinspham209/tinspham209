@@ -7,8 +7,6 @@
 - ⚡ Working:
   - A fresher developer using React for Web development
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="tinspham.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
