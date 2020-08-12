@@ -24,9 +24,7 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylist]
 [<img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" />][webdevplaylist]
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />][webdevplaylist]
-[<img align="left" alt="Django" width="26px" src="https://img.icons8.com/color/48/000000/django.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/bubbles/50/000000/data-configuration.png" />][webdevplaylist]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />][webdevplaylist]
 
 <br />
 
@@ -39,8 +37,7 @@
 [<img align="left" alt="Katalon" width="26px" src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2019/10/22154517/katalon_icon_color_normal.png" />][webdevplaylist]
 [<img align="left" alt="Photoshop" width="26px" src="https://img.icons8.com/fluent/50/000000/adobe-photoshop.png" />][webdevplaylist]
 [<img align="left" alt="Premiere" width="26px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" />][webdevplaylist]
-[<img align="left" alt="AE" width="26px" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" />][webdevplaylist]
-[<img align="left" alt="trello" width="26px" src="https://img.icons8.com/color/48/000000/trello.png" />][webdevplaylist]
+[<img align="left" alt="Trello" width="26px" src="https://img.icons8.com/color/48/000000/trello.png" />][webdevplaylist]
 [<img align="left" alt="slack" width="26px" src="https://img.icons8.com/color/48/000000/slack-new.png" />][webdevplaylist]
 
 <br />
