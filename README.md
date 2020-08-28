@@ -2,10 +2,10 @@
 
 ### I am a software developer
 
-🌏 Lives: Da Nang city, Vietnam
-📨 Email: tinphamvan123@gmail.com
-📕 Languages: English, Vietnamese
-🎓 Education: Final-year student from Duy Tan University
+🌏 Lives: Da Nang city, Vietnam <br/>
+📨 Email: tinphamvan123@gmail.com <br/>
+📕 Languages: English, Vietnamese <br/>
+🎓 Education: Final-year student from Duy Tan University <br/>
 ⚡ Working:
 
 - A fresher developer using React for Web development or Express for Web services
