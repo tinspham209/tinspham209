@@ -2,12 +2,13 @@
 
 ### I am a software developer
 
-- 🌏 Lives: Da Nang city, Vietnam
-- 📨 Email: tinphamvan123@gmail.com
-- 📕 Languages: English, Vietnamese
-- 🎓 Education: Final-year student from Duy Tan University
-- ⚡ Working:
-  - A fresher developer using React for Web development or Express for Web services
+🌏 Lives: Da Nang city, Vietnam
+📨 Email: tinphamvan123@gmail.com
+📕 Languages: English, Vietnamese
+🎓 Education: Final-year student from Duy Tan University
+⚡ Working:
+
+- A fresher developer using React for Web development or Express for Web services
 
 ### Connect with me:
 
@@ -48,17 +49,6 @@
 <br />
 
 <img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=tinspham209" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-## Check out my work 👷‍♂️:
 
 [website]: https://tinspham.surge.sh
 [facebook]: https://fb.com/tinspham.209
