@@ -1,19 +1,21 @@
-## Hi there, I'm Tin Van Pham - aka Tins 👋
+## Hi there, I'm Tins 👋
+
+### I am a software developer
 
 - 🌏 Lives: Da Nang city, Vietnam
 - 📨 Email: tinphamvan123@gmail.com
-- 🎓 Languages: English, Vietnamese
-- 📕 Education: Student of Duy Tan University
+- 📕 Languages: English, Vietnamese
+- 🎓 Education: Final-year student from Duy Tan University
 - ⚡ Working:
-  - A fresher developer using React for Web development
+  - A fresher developer using React for Web development or Express for Web services
 
 ### Connect with me:
 
 [<img align="left" alt="tinspham.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="youtube | Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
+[<img align="left" alt="linkedin | Linkedin" width="22px" src="https://simpleicons.org/icons/logmein.svg" />][linkedin]
 <br />
 
 ### Languages:
@@ -25,9 +27,8 @@
 [<img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" />][webdevplaylist]
 [<img align="left" alt="NodeJS" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="ExpressJS" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" />][webdevplaylist]
-[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/bubbles/50/000000/data-configuration.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />][webdevplaylist]
 
 <br />
 
@@ -48,7 +49,11 @@
 
 <img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=tinspham209" />
 
-[website]: https://tinspham.dev
+## Check out my work 👷‍♂️:
+
+[website]: https://tinspham.surge.sh
 [facebook]: https://fb.com/tinspham.209
 [instagram]: https://instagram.com/phamthitins
-[webdevplaylist]: https://tinspham.dev
+[youtube]: https://www.youtube.com/channel/UC7Yl-1r1qQwSB1Rej2UlaNQ/
+[linkedin]: https://www.linkedin.com/in/phamvantins/
+[webdevplaylist]: https://tinspham.surge.sh
