@@ -28,7 +28,7 @@ const tinspham = {
 
 ### Current Project: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- Frontend developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: Environment Analysis System at Vietnam
+- Frontend developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: Environment Analysis System in Vietnam
 - Project Proposal: <a href="https://docs.google.com/document/d/1tQOYTQQ053oVq-IgPckF-CdjePMqiaZQ1QnrVysQJ8U/edit#heading=h.b2p1ajfljp21">Google docs</a>
 
 ### Contact me on social media 📫
