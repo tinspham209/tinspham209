@@ -25,15 +25,15 @@ const tinspham = {
 	technologies: {
 		frontend: ["ReactJS", "ReduxJS", "Material-UI", "styled-components"],
 		backend: ["NodeJS", "ExpressJS"],
-		database: ["Mongo DB", "PostgreSQL", "SQL Server"],
+		database: ["Mongo DB", "PostgreSQL", "SQL Server", "Firebase Storage"],
 		tools: ["Git", "GitHub", "Terminal", "Photoshop", "Premiere"],
-		misc: ["Firebase", "Socket.IO", "Linux/WSL2", "Katalon", "Slack", "Trello"],
+		misc: ["Firebase", "Socket.IO", "Linux/WSL2", "Katalon"],
 	},
 	architecture: ["Single page applications", "MVC"],
 };
 ```
 
-### Get in touch:
+### 📫 Contact me on social media
 
 [<img align="left" alt="tinspham.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="color: #0095d5" />][website]
 [<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -41,9 +41,9 @@ const tinspham = {
 [<img align="left" alt="youtube | Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
 [<img align="left" alt="linkedin | Linkedin" width="22px" src="https://simpleicons.org/icons/logmein.svg" />][linkedin]
 <br />
+<br />
 
-<br />
-<br />
+### 💻 Open Source Work Stats
 
 <img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=tinspham209" />
 
