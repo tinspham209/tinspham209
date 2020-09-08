@@ -7,7 +7,7 @@
 ⚡ **Current Project:**
 
 - Frontend developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: Environment Analysis System at Vietnam
-- <a href="https://docs.google.com/document/d/1tQOYTQQ053oVq-IgPckF-CdjePMqiaZQ1QnrVysQJ8U/edit#heading=h.b2p1ajfljp21">Project Proposal</a>
+- Project Proposal: <a href="https://docs.google.com/document/d/1tQOYTQQ053oVq-IgPckF-CdjePMqiaZQ1QnrVysQJ8U/edit#heading=h.b2p1ajfljp21">Google docs</a>
 
 ### A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
@@ -17,15 +17,15 @@ const tinspham = {
 	pronouns: "He" | "Him",
 	name: "Pham Van Tin",
 	email: "tinphamvan123@gmail.com",
-	lives: "Da Nang city, Vietnam",
+	location: "Da Nang city, Vietnam",
 	language: ["Vietnamese", "English"],
 	major: "Software Engineering",
 	education: "Final-year student from Duy Tan University",
-	code: ["Javascript", "ReactJS", "Redux", "ExpressJS"],
+	code: ["Javascript"],
 	technologies: {
-		frontend: ["JavaScript", "ReactJS", "styled-components", "Material-UI"],
+		frontend: ["ReactJS", "ReduxJS", "Material-UI", "styled-components"],
 		backend: ["NodeJS", "ExpressJS"],
-		database: ["Mongo DB", "PostgreSQL"],
+		database: ["Mongo DB", "PostgreSQL", "SQL Server"],
 		tools: ["Git", "GitHub", "Terminal", "Photoshop", "Premiere"],
 		misc: ["Firebase", "Socket.IO", "Linux/WSL2", "Katalon", "Slack", "Trello"],
 	},
