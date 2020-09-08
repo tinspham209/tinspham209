@@ -31,7 +31,7 @@ const tinspham = {
 - Frontend developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: Environment Analysis System at Vietnam
 - Project Proposal: <a href="https://docs.google.com/document/d/1tQOYTQQ053oVq-IgPckF-CdjePMqiaZQ1QnrVysQJ8U/edit#heading=h.b2p1ajfljp21">Google docs</a>
 
-### 📫 Contact me on social media
+### Contact me on social media 📫
 
 [<img align="left" alt="tinspham.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
