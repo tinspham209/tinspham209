@@ -4,11 +4,13 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
 🌏 Lives: Da Nang city, Vietnam <br/>
 📨 Email: tinphamvan123@gmail.com <br/>
 📕 Languages: English, Vietnamese <br/>
 🎓 Education: Final-year student from Duy Tan University <br/>
-⚡ Working: Im' currently learning in Javascript, ReactJS
+⚡ Working: <a href="http://www.cleartax.in">Smart Dashboard Application </a>for Environment Analysis System at Vietnam
 
 ### Connect with me:
 
@@ -19,31 +21,24 @@
 [<img align="left" alt="linkedin | Linkedin" width="22px" src="https://simpleicons.org/icons/logmein.svg" />][linkedin]
 <br />
 
-### Languages:
+```js
+const tinspham = {
+  username = 'tinspham209',
+  pronouns: 'He' | 'Him',
+  name = 'Pham Van Tin',
+  code: ['Javascript', 'ReactJS', 'Redux', 'ExpressJS'],
+  technologies = {
+      frontend: ['HTML', 'CSS', 'JavaScript', 'ReactJS', Styled-Components, 'Material-UI'],
+      backend: ['NodeJS', 'ExpressJS'],
+      database: ['PostgreSQL', 'Mongo DB'],
+      tools: ['Git', 'GitHub', 'Git', 'Terminal', 'Photoshop', 'Premiere'],
+      misc: ['Firebase', 'Socket.IO', 'Linux/WSL2', 'Katalon', 'SCRUM', 'Slack', 'Trello']
+  },
+  architecture: ['Single page applications', 'MVC'],
+  currentProject: "I am developing Smart Dashboard Application for Environment Analysis System",
+}
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylist]
-[<img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" />][webdevplaylist]
-[<img align="left" alt="NodeJS" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="ExpressJS" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />][webdevplaylist]
-
-<br />
-
-### Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/nolan/64/github.png"/>][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/fluent/48/000000/console.png" />][webdevplaylist]
-[<img align="left" alt="Katalon" width="26px" src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2019/10/22154517/katalon_icon_color_normal.png" />][webdevplaylist]
-[<img align="left" alt="Photoshop" width="26px" src="https://img.icons8.com/fluent/50/000000/adobe-photoshop.png" />][webdevplaylist]
-[<img align="left" alt="Premiere" width="26px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" />][webdevplaylist]
-[<img align="left" alt="Trello" width="26px" src="https://img.icons8.com/color/48/000000/trello.png" />][webdevplaylist]
-[<img align="left" alt="slack" width="26px" src="https://img.icons8.com/color/48/000000/slack-new.png" />][webdevplaylist]
+```
 
 <br />
 <br />
