@@ -4,9 +4,12 @@
 
 ### I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-⚡ Current Project: FrontEnd developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: Environment Analysis System at Vietnam
+⚡ **Current Project:**
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+- Frontend developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: Environment Analysis System at Vietnam
+- <a href="https://docs.google.com/document/d/1tQOYTQQ053oVq-IgPckF-CdjePMqiaZQ1QnrVysQJ8U/edit#heading=h.b2p1ajfljp21">Project Proposal</a>
+
+### A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ```js
 const tinspham = {
@@ -20,26 +23,11 @@ const tinspham = {
 	education: "Final-year student from Duy Tan University",
 	code: ["Javascript", "ReactJS", "Redux", "ExpressJS"],
 	technologies: {
-		frontend: [
-			"HTML",
-			"CSS",
-			"JavaScript",
-			"ReactJS",
-			"Styled-Components",
-			"Material-UI",
-		],
+		frontend: ["JavaScript", "ReactJS", "styled-components", "Material-UI"],
 		backend: ["NodeJS", "ExpressJS"],
-		database: ["PostgreSQL", "Mongo DB"],
-		tools: ["Git", "GitHub", "Git", "Terminal", "Photoshop", "Premiere"],
-		misc: [
-			"Firebase",
-			"Socket.IO",
-			"Linux/WSL2",
-			"Katalon",
-			"SCRUM",
-			"Slack",
-			"Trello",
-		],
+		database: ["Mongo DB", "PostgreSQL"],
+		tools: ["Git", "GitHub", "Terminal", "Photoshop", "Premiere"],
+		misc: ["Firebase", "Socket.IO", "Linux/WSL2", "Katalon", "Slack", "Trello"],
 	},
 	architecture: ["Single page applications", "MVC"],
 };
