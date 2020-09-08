@@ -18,9 +18,9 @@ const tinspham = {
 	technologies: {
 		frontend: ["ReactJS", "ReduxJS", "Material-UI", "styled-components"],
 		backend: ["NodeJS", "ExpressJS"],
-		database: ["Mongo DB", "PostgreSQL", "SQL Server", "Firebase Storage"],
-		tools: ["Git", "GitHub", "Terminal", "Photoshop", "Premiere"],
-		misc: ["Firebase", "Socket.IO", "Linux/WSL2", "Katalon"],
+		database: ["Mongo DB", "PostgreSQL", "Firebase Storage"],
+		tools: ["Git", "GitHub", "Terminal", "Katalon", "Photoshop", "Premiere"],
+		misc: ["Firebase", "Socket.IO", "Linux/WSL2"],
 	},
 	architecture: ["Single page applications", "MVC Model"],
 };
