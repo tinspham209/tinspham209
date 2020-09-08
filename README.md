@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```js
 const tinspham = {
@@ -14,7 +14,7 @@ const tinspham = {
 	language: ["Vietnamese", "English"],
 	major: "Software Engineering",
 	education: "Final-year student from Duy Tan University",
-	code: ["Javascript"],
+	code: "Javascript",
 	technologies: {
 		frontend: ["ReactJS", "ReduxJS", "Material-UI", "styled-components"],
 		backend: ["NodeJS", "ExpressJS"],
@@ -22,16 +22,16 @@ const tinspham = {
 		tools: ["Git", "GitHub", "Terminal", "Photoshop", "Premiere"],
 		misc: ["Firebase", "Socket.IO", "Linux/WSL2", "Katalon"],
 	},
-	architecture: ["Single page applications", "MVC"],
+	architecture: ["Single page applications", "MVC Model"],
 };
 ```
 
-### Current Project: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current Project:
 
 - Frontend developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: Environment Analysis System in Vietnam
 - Project Proposal: <a href="https://docs.google.com/document/d/1tQOYTQQ053oVq-IgPckF-CdjePMqiaZQ1QnrVysQJ8U/edit#heading=h.b2p1ajfljp21">Google docs</a>
 
-### Contact me on social media 📫
+### 📫 Contact me on social media:
 
 [<img align="left" alt="tinspham.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -41,7 +41,7 @@ const tinspham = {
 <br />
 <br />
 
-### Open Source Work Stats 💻
+### 💻 Open Source Work Stats:
 
 <img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=tinspham209" />
 
