@@ -33,11 +33,11 @@ const tinspham = {
 
 ### 📫 Contact me on social media:
 
-[<img align="left" alt="tinspham.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="youtube | Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
-[<img align="left" alt="linkedin | Linkedin" width="22px" src="https://simpleicons.org/icons/logmein.svg" />][linkedin]
+[<img align="left" alt="tinspham.info" width="22px" src="https://img.icons8.com/dusk/50/000000/globe-earth.png"/>][website]
+[<img align="left" alt="facebook | Facebook" width="22px" src="https://img.icons8.com/dusk/64/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="instagram | Instagram" width="22px" src="https://img.icons8.com/dusk/64/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="youtube | Youtube" width="22px" src="https://img.icons8.com/doodle/48/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="linkedin | Linkedin" width="22px" src="https://img.icons8.com/doodle/48/000000/linkedin-circled.png" />][linkedin]
 <br />
 <br />
 
