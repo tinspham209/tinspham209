@@ -35,7 +35,7 @@ const tinspham = {
 
 ### 📫 Contact me on social media
 
-[<img align="left" alt="tinspham.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="color: #0095d5" />][website]
+[<img align="left" alt="tinspham.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="background-color: #0095d5" />][website]
 [<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="youtube | Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
