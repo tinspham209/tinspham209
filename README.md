@@ -1,18 +1,18 @@
-## Hi there, I'm Tins 👋
+## Welcome to my GitHub! I'm Tins 👋
 
-### I am a software developer
+### I am a Software Developer
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
 
 🌏 Lives: Da Nang city, Vietnam <br/>
 📨 Email: tinphamvan123@gmail.com <br/>
 📕 Languages: English, Vietnamese <br/>
 🎓 Education: Final-year student from Duy Tan University <br/>
-⚡ Working: A fresher developer using React for Web development or Express for Web services
+⚡ Working: Im' currently learning in Javascript, ReactJS
 
 ### Connect with me:
 
-[<img align="left" alt="tinspham.surge.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="color: #0095d5" />][website]
+[<img align="left" alt="tinspham.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="color: #0095d5" />][website]
 [<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="youtube | Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
@@ -50,9 +50,9 @@
 
 <img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=tinspham209" />
 
-[website]: https://tinspham.surge.sh
+[website]: https://tinspham.info
 [facebook]: https://fb.com/tinspham.209
 [instagram]: https://instagram.com/phamthitins
 [youtube]: https://www.youtube.com/channel/UC7Yl-1r1qQwSB1Rej2UlaNQ/
 [linkedin]: https://www.linkedin.com/in/phamvantins/
-[webdevplaylist]: https://tinspham.surge.sh
+[webdevplaylist]: https://tinspham.info
