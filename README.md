@@ -2,13 +2,13 @@
 
 ### I am a software developer
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 🌏 Lives: Da Nang city, Vietnam <br/>
 📨 Email: tinphamvan123@gmail.com <br/>
 📕 Languages: English, Vietnamese <br/>
 🎓 Education: Final-year student from Duy Tan University <br/>
 ⚡ Working: A fresher developer using React for Web development or Express for Web services
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Connect with me:
 
