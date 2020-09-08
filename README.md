@@ -35,7 +35,7 @@ const tinspham = {
 
 [<img align="left" alt="tinspham.info" width="30px" src="https://img.icons8.com/cotton/64/000000/globe.png"/>][website]
 [<img align="left" alt="facebook | Facebook" width="30px" src="https://img.icons8.com/dusk/64/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="instagram | Instagram" width="30px" src="<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>" />][instagram]
+[<img align="left" alt="instagram | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="youtube | Youtube" width="30px" src="https://img.icons8.com/doodle/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="linkedin | Linkedin" width="30px" src="https://img.icons8.com/doodle/48/000000/linkedin-circled.png" />][linkedin]
 <br />
