@@ -29,7 +29,7 @@ const tinspham = {
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current Project:
 
 - Frontend developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: Environment Analysis System in Vietnam
-- Project Proposal: <a href="https://docs.google.com/document/d/1tQOYTQQ053oVq-IgPckF-CdjePMqiaZQ1QnrVysQJ8U/edit#heading=h.b2p1ajfljp21">Google docs</a>
+- Github Repository: <a href="http://github.com/sdateamdtu2020/"> Link </a>
 
 ### 📫 Contact me on social media:
 
@@ -50,4 +50,3 @@ const tinspham = {
 [instagram]: https://instagram.com/phamthitins
 [youtube]: https://www.youtube.com/channel/UC7Yl-1r1qQwSB1Rej2UlaNQ/
 [linkedin]: https://www.linkedin.com/in/phamvantins/
-[webdevplaylist]: https://tinspham.info
