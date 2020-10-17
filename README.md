@@ -12,23 +12,25 @@ const tinspham = {
 	email: "tinphamvan123@gmail.com",
 	location: "Da Nang city, Vietnam",
 	language: ["Vietnamese", "English"],
-	major: "Software Engineering",
+	introduction:
+		"I'm a final-year student, interested in designing websites, networking",
+	major: "Bachelor of Science: Software Engineering",
 	education: "Final-year student from Duy Tan University",
 	code: "Javascript",
 	technologies: {
-		frontend: ["ReactJS", "ReduxJS", "Material-UI", "styled-components"],
-		backend: ["NodeJS", "ExpressJS"],
-		database: ["Mongo DB", "PostgreSQL", "Firebase Storage"],
-		tools: ["Git", "GitHub", "Terminal", "Katalon"],
-		misc: ["Firebase", "Socket.IO", "Linux/WSL2", "Photoshop"],
+		frontend: ["React", "Redux", "styled-components", "Material-UI"],
+		backend: ["NodeJS", "Express"],
+		database: ["Firebase"],
+		tools: ["Git", "GitHub", "Terminal"],
+		misc: ["Socket.IO", "Linux/WSL2", "Photoshop"],
 	},
-	architecture: ["Single page applications", "MVC Model"],
+	architecture: ["Client/Server-side rendering", "MVC Model"],
 };
 ```
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current Project:
 
-- Frontend developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: Environment Analysis System in Vietnam
+- Frontend developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: Scientific research: Environment Analysis System in Vietnam
 - Github Repository: <a href="http://github.com/sdateamdtu2020/"> Link </a>
 
 ### 📫 Contact me on social media:
