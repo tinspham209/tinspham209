@@ -12,8 +12,6 @@ const tinspham = {
 	email: "tinphamvan123@gmail.com",
 	location: "Da Nang city, Vietnam",
 	language: ["Vietnamese", "English"],
-	introduction:
-		"I'm a final-year student, interested in designing websites, networking",
 	major: "Bachelor of Science: Software Engineering",
 	education: "Final-year student from Duy Tan University",
 	code: "Javascript",
