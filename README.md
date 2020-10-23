@@ -34,13 +34,23 @@ const tinspham = {
 ### 📫 Contact me on social media:
 
 <p align="center">
-	<a href="https://tinspham.info/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.tinspham.info-ff69b4?style=flat&logo=google-chrome"></a>
-	<a href="https://www.linkedin.com/in/phamvantins/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@phamvantins-lightgrey?style=flat&logo=linkedin"></a>
-	<a href="mailto:tinphamvan123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tinphamvan123@gmail.com-orange?style=flat&logo=gmail"></a>
+	<a href="https://tinspham.info/" target="_blank">
+		<img alt="Website" src="https://img.shields.io/badge/Website-www.tinspham.info-ff69b4?style=flat&logo=google-chrome">
+	</a>
+	<a href="https://www.linkedin.com/in/phamvantins/" target="_blank">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@phamvantins-lightgrey?style=flat&logo=linkedin">
+	</a>
+	<a href="mailto:tinphamvan123@gmail.com">
+		<img alt="Email" src="https://img.shields.io/badge/Email-tinphamvan123@gmail.com-orange?style=flat&logo=gmail">
+	</a>
 </p>
 <p align="center">
-	<a href="https://www.facebook.com/tinspham.209" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-tinspham.209-blue?style=flat&logo=facebook"></a>
-	<a href="https://www.instagram.com/phamthitins/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-phamthitins-blueviolet?style=flat&logo=instagram"></a>
+	<a href="https://www.facebook.com/tinspham.209" target="_blank">
+		<img alt="Facebook" src="https://img.shields.io/badge/Facebook-tinspham.209-blue?style=flat&logo=facebook">
+	</a>
+	<a href="https://www.instagram.com/phamthitins/" target="_blank">
+		<img alt="Instagram" src="https://img.shields.io/badge/Instagram-phamthitins-blueviolet?style=flat&logo=instagram">
+	</a>
 </p>
 <br />
 <br />
