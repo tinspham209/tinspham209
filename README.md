@@ -51,6 +51,9 @@ const tinspham = {
 	<a href="https://www.instagram.com/phamthitins/" target="_blank">
 		<img alt="Instagram" src="https://img.shields.io/badge/.-@phamthitins-blueviolet?style=flat&logo=instagram">
 	</a>
+	<a href="https://github.com/tinspham209">
+   <img src="https://komarev.com/ghpvc/?username=tinspham209">
+</a>
 </p>
 
 ### 💻 Open Source Work Stats:
