@@ -31,7 +31,7 @@ const tinspham = {
 - Frontend developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: Scientific research: Environment Analysis System in Vietnam
 - Github Repository: <a href="http://github.com/sdateamdtu2020/"> Link </a>
 
-### 📫 Contact me on social media:
+### 📫 Connect with me:
 
 <p>
 	<a href="https://tinspham.info/" target="_blank">
