@@ -52,8 +52,6 @@ const tinspham = {
 		<img alt="Instagram" src="https://img.shields.io/badge/.-@phamthitins-blueviolet?style=flat&logo=instagram">
 	</a>
 </p>
-<br />
-<br />
 
 ### 💻 Open Source Work Stats:
 
