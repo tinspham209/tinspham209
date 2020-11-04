@@ -9,20 +9,25 @@ const tinspham = {
 	username: "tinspham209",
 	pronouns: "He" | "Him",
 	name: "Pham Van Tin",
-	email: "tinphamvan123@gmail.com",
 	location: "Da Nang city, Vietnam",
 	language: ["Vietnamese", "English"],
-	major: "Bachelor of Science: Software Engineering",
-	education: "Final-year student from Duy Tan University",
+	major: "Software Engineering",
+	education: "Bachelor of Science from Duy Tan University",
 	code: "Javascript",
 	technologies: {
 		frontend: ["React", "Redux", "styled-components", "Material-UI"],
 		backend: ["NodeJS", "Express"],
-		database: ["Firebase"],
-		tools: ["Git", "GitHub", "Terminal"],
-		misc: ["Socket.IO", "Linux/WSL2", "Photoshop"],
+		database: ["Firebase", "MongoDB"],
+		tools: ["Git", "Terminal"],
+		misc: ["Socket.IO", "Photoshop", "Figma"],
 	},
 	architecture: ["Client/Server-side rendering", "MVC Model"],
+	generalSkills: [
+		"Problem Solving",
+		"LeaderShip",
+		"Analysis Skills",
+		"Team Work",
+	],
 };
 ```
 
