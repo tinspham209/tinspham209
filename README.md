@@ -14,20 +14,21 @@ const tinspham = {
 	major: "Software Engineering",
 	education: "Bachelor of Science from Duy Tan University",
 	code: "Javascript",
-	technologies: {
+	technicalSkills: {
 		frontend: ["React", "Redux", "styled-components", "Material-UI"],
 		backend: ["NodeJS", "Express"],
 		database: ["Firebase", "MongoDB"],
 		tools: ["Git", "Terminal"],
 		misc: ["Socket.IO", "Photoshop", "Figma"],
+		architecture: ["Client/Server-side rendering", "MVC Model"],
 	},
-	architecture: ["Client/Server-side rendering", "MVC Model"],
 	generalSkills: [
 		"Problem Solving",
 		"LeaderShip",
 		"Analysis Skills",
 		"Team Work",
 	],
+	interests: ["Write Blog", "Cycling"],
 };
 ```
 
