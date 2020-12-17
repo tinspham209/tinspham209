@@ -1,6 +1,18 @@
 ## Welcome to my GitHub! I'm Tins 👨‍💻
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### 💻 Open Source Work Stats:
+
+<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td align="left">
+			<img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=tinspham209" width="350" height="150" />
+			<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="350" height="150">
+		</td>
+		<td align="left">
+			<img align='right' src="https://github.com/wladimirgrf/wladimirgrf/raw/main/.github/assets/coding.gif" width="450">
+		</td>
+	</tr>
+</table>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...
 
@@ -66,10 +78,6 @@ const tinspham = {
 		<img src="https://komarev.com/ghpvc/?username=tinspham209">
 	</a>
 </p>
-
-### 💻 Open Source Work Stats:
-
-<img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=tinspham209" />
 
 [website]: https://tinspham.info
 [facebook]: https://fb.com/tinspham.209
