@@ -5,11 +5,11 @@
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td align="left">
-			<img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=tinspham209" width="350" height="150" />
-			<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="350" height="150">
+			<img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=tinspham209" />
+			<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 		</td>
 		<td align="left">
-			<img align='right' src="https://github.com/wladimirgrf/wladimirgrf/raw/main/.github/assets/coding.gif" width="450">
+			<img align='right' src="https://github.com/wladimirgrf/wladimirgrf/raw/main/.github/assets/coding.gif"/>
 		</td>
 	</tr>
 </table>
