@@ -46,7 +46,7 @@ const tinspham = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current Project:
 
-- Frontend developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: Scientific research: Environment Analysis System in Vietnam
+- Frontend Web developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: A Collaborative Web-Based Environmental Data Visualization and Analysis Framework in Vietnam
 - Github Repository: <a href="http://github.com/sdateamdtu2020/"> Link </a>
 
 ### 📫 Connect with me:
