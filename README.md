@@ -1,5 +1,11 @@
 ## Welcome to my GitHub! I'm Tins 👨‍💻
 
+<p>
+	<a href="https://github.com/tinspham209">
+		<img src="https://komarev.com/ghpvc/?username=tinspham209">
+	</a>
+</p>
+
 ### 💻 Open Source Work Stats:
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
@@ -23,31 +29,31 @@ const tinspham = {
 	name: "Pham Van Tin",
 	location: "Da Nang city, Vietnam",
 	language: ["Vietnamese", "English"],
-	major: "Software Engineering",
-	education: "Bachelor of Science from Duy Tan University",
+	major: "Software Engineer",
+	education: "BSc from Duy Tan University",
 	code: "Javascript",
 	technicalSkills: {
-		frontend: ["React", "Redux", "styled-components", "Material-UI"],
-		backend: ["NodeJS", "Express"],
+		frontend: ["React", "Redux", "SASS", "Material-UI"],
+		backend: ["NodeJS", "Express", "Restful API", "JSON / XML"],
+		design: ["Photoshop", "Figma"],
 		database: ["Firebase", "MongoDB"],
-		tools: ["Git", "Terminal"],
-		misc: ["Socket.IO", "Photoshop", "Figma"],
-		architecture: ["Client/Server-side rendering", "MVC Model"],
 	},
 	generalSkills: [
 		"Problem Solving",
 		"LeaderShip",
 		"Analysis Skills",
-		"Team Work",
+		"Communication",
 	],
-	interests: ["Write Blog", "Cycling"],
+	interests: ["Write the blog", "Content Writer"],
 };
 ```
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current Project:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working:
 
-- Frontend Web developer at <a href="http://sda-research.ml/">Smart Dashboard Application </a>: A Collaborative Web-Based Environmental Data Visualization and Analysis Framework in Vietnam
-- Github Repository: <a href="http://github.com/sdateamdtu2020/"> Link </a>
+- Freelance Instructor
+- Freelance Web Developer
+- Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/)
+- Co-Founder of [NOOR Coffee & Tea](https://www.noordn.cf)
 
 ### 📫 Connect with me:
 
@@ -62,25 +68,12 @@ const tinspham = {
 		<img alt="Email" src="https://img.shields.io/badge/.-tinphamvan123@gmail.com-orange?style=flat&logo=gmail">
 	</a>
 </p>
-<p>
-	<a href="https://www.facebook.com/tinspham.209" target="_blank">
-		<img alt="Facebook" src="https://img.shields.io/badge/.-@tinspham.209-blue?style=flat&logo=facebook">
-	</a>
-	<a href="https://www.instagram.com/phamthitins/" target="_blank">
-		<img alt="Instagram" src="https://img.shields.io/badge/.-@phamthitins-blueviolet?style=flat&logo=instagram">
-	</a>
-</p>
-<p>
-	<a href="https://github.com/tinspham209">
-		<img src="https://img.shields.io/github/followers/tinspham209">
-	</a>
-	<a href="https://github.com/tinspham209">
-		<img src="https://komarev.com/ghpvc/?username=tinspham209">
-	</a>
-</p>
 
-[website]: https://tinspham.info
-[facebook]: https://fb.com/tinspham.209
-[instagram]: https://instagram.com/phamthitins
-[youtube]: https://www.youtube.com/channel/UC7Yl-1r1qQwSB1Rej2UlaNQ/
-[linkedin]: https://www.linkedin.com/in/phamvantins/
+### Projects for teaching:
+
+- 50 Projects to learn HTML/CSS, JavaScript DOM Manipulation: [Repository](https://github.com/tinspham209/50projects50days)
+- Daily UI: [Repository](https://github.com/tinspham209/daily-ui)
+
+### Scientific Research Projects:
+
+- [Smart Dashboard Application](http://sda-research.ml): Analyze data on the environment in Vietnam: Rainfall, Population, Industry,... to visualize and filter data in multiple dimensions: [Repository](http://github.com/sdateamdtu2020/)
