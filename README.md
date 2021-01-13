@@ -50,8 +50,8 @@ const tinspham = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working:
 
+- Volunteer Frontend Developer at [Topdup](https://topdup.xyz)
 - Freelance Instructor
-- Freelance Web Developer
 - Owner of website: <a href="http://blog.tinspham.info">blog.tinspham.info</a> where I can share my favorite topics via blog posts.
 - Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/)
 - Co-Founder of [NOOR Coffee & Tea](https://www.noordn.cf)
