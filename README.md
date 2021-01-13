@@ -52,8 +52,18 @@ const tinspham = {
 
 - Freelance Instructor
 - Freelance Web Developer
+- Owner of website: <a href="http://blog.tinspham.info">blog.tinspham.info</a> where I can share my favorite topics via blog posts.
 - Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/)
 - Co-Founder of [NOOR Coffee & Tea](https://www.noordn.cf)
+
+### Projects for teaching:
+
+- 50 Projects to learn HTML/CSS, JavaScript DOM Manipulation: [Repository](https://github.com/tinspham209/50projects50days)
+- Daily UI: [Repository](https://github.com/tinspham209/daily-ui)
+
+### Scientific Research Projects:
+
+- [Smart Dashboard Application](http://sda-research.ml): Analyze data on the environment in Vietnam: Rainfall, Population, Industry,... to visualize and filter data in multiple dimensions: [Repository](http://github.com/sdateamdtu2020/)
 
 ### 📫 Connect with me:
 
@@ -68,12 +78,3 @@ const tinspham = {
 		<img alt="Email" src="https://img.shields.io/badge/.-tinphamvan123@gmail.com-orange?style=flat&logo=gmail">
 	</a>
 </p>
-
-### Projects for teaching:
-
-- 50 Projects to learn HTML/CSS, JavaScript DOM Manipulation: [Repository](https://github.com/tinspham209/50projects50days)
-- Daily UI: [Repository](https://github.com/tinspham209/daily-ui)
-
-### Scientific Research Projects:
-
-- [Smart Dashboard Application](http://sda-research.ml): Analyze data on the environment in Vietnam: Rainfall, Population, Industry,... to visualize and filter data in multiple dimensions: [Repository](http://github.com/sdateamdtu2020/)
