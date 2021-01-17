@@ -50,9 +50,9 @@ const tinspham = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working:
 
-- Volunteer Frontend Developer at [Topdup](https://topdup.xyz)
+- Frontend Developer at [TopDup](https://github.com/forummlcb/topdup)
 - Freelance Instructor
-- Owner of website: <a href="http://blog.tinspham.info">blog.tinspham.info</a> where I can share my favorite topics via blog posts.
+- Owner of website: <a href="http://blog.tinspham.info">Blog</a> where I can share my favorite topics via blog posts.
 - Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/)
 - Co-Founder of [NOOR Coffee & Tea](https://www.noordn.cf)
 
@@ -63,7 +63,7 @@ const tinspham = {
 
 ### Scientific Research Projects:
 
-- [Smart Dashboard Application](http://sda-research.ml): Analyze data on the environment in Vietnam: Rainfall, Population, Industry,... to visualize and filter data in multiple dimensions: [Repository](http://github.com/sdateamdtu2020/)
+- [Smart Dashboard Application](http://sda-research.ml): Apply multi-dimensional data cubes to synthesize, analyze, filter, and visualize data in the environment (climate, population, industry,...) of Vietnam: [Repository](http://github.com/sdateamdtu2020/)
 
 ### 📫 Connect with me:
 
