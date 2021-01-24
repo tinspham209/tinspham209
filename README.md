@@ -24,7 +24,6 @@
 
 ```js
 const tinspham = {
-	username: "tinspham209",
 	pronouns: "He" | "Him",
 	name: "Pham Van Tin",
 	location: "Da Nang city, Vietnam",
@@ -38,19 +37,13 @@ const tinspham = {
 		design: ["Photoshop", "Figma", "Adobe XD"],
 		database: ["Firebase", "MongoDB"],
 	},
-	generalSkills: [
-		"Problem Solving",
-		"LeaderShip",
-		"Analysis Skills",
-		"Communication",
-	],
 	interests: ["Writing", "Content Writer"],
 };
 ```
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working:
 
-- Frontend Developer at [TopDup](https://github.com/forummlcb/topdup)
+- Frontend Web Developer at [TopDup](https://github.com/forummlcb/topdup)
 - Freelance Instructor
 - <a href="http://blog.tinspham.info">My Blog</a> where I can share my favorite topics via blog posts.
 - Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/)
