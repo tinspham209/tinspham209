@@ -20,7 +20,7 @@
 	</tr>
 </table>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...
+### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30px"/> A little more about me...
 
 ```js
 const tinspham = {
@@ -31,11 +31,11 @@ const tinspham = {
 	language: ["Vietnamese", "English"],
 	major: "Software Engineer",
 	education: "BSc from Duy Tan University",
-	code: "Javascript",
+	programmingLanguage: "Javascript",
 	technicalSkills: {
 		frontend: ["React", "Redux", "SASS", "Material-UI"],
 		backend: ["NodeJS", "Express", "Restful API", "JSON / XML"],
-		design: ["Photoshop", "Figma"],
+		design: ["Photoshop", "Figma", "Adobe XD"],
 		database: ["Firebase", "MongoDB"],
 	},
 	generalSkills: [
@@ -44,7 +44,7 @@ const tinspham = {
 		"Analysis Skills",
 		"Communication",
 	],
-	interests: ["Write the blog", "Content Writer"],
+	interests: ["Writing", "Content Writer"],
 };
 ```
 
@@ -52,20 +52,21 @@ const tinspham = {
 
 - Frontend Developer at [TopDup](https://github.com/forummlcb/topdup)
 - Freelance Instructor
-- Owner of website: <a href="http://blog.tinspham.info">Blog</a> where I can share my favorite topics via blog posts.
+- <a href="http://blog.tinspham.info">My Blog</a> where I can share my favorite topics via blog posts.
 - Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/)
 - Co-Founder of [NOOR Coffee & Tea](https://www.noordn.cf)
 
-### Projects for teaching:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Projects for teaching:
 
 - 50 Projects to learn HTML/CSS, JavaScript DOM Manipulation: [Repository](https://github.com/tinspham209/50projects50days)
+- 23 Projects to learn ReactJS: [Repository](https://github.com/tinspham209/23-projects-react)
 - Daily UI: [Repository](https://github.com/tinspham209/daily-ui)
 
 ### Scientific Research Projects:
 
-- [Smart Dashboard Application](http://sda-research.ml): Apply multi-dimensional data cubes to synthesize, analyze, filter, and visualize data in the environment (climate, population, industry,...) of Vietnam: [Repository](http://github.com/sdateamdtu2020/)
+- [ Expert-driven Smart Dashboard Application](http://sda-research.ml): Apply multi-dimensional data cubes to synthesize, analyze, filter, and visualize data in the environment (climate, population, industry,...) of Vietnam: [Repository](https://github.com/sdateamdtu2020/SDA-v2.0)
 
-### 📫 Connect with me:
+### Connect with me: <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="30px">
 
 <p>
 	<a href="https://tinspham.info/" target="_blank">
