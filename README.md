@@ -29,8 +29,8 @@ const tinspham = {
 	name: "Pham Van Tin",
 	location: "Da Nang city, Vietnam",
 	language: ["Vietnamese", "English"],
-	major: "Software Engineer",
 	education: "BSc from Duy Tan University",
+	major: "Software Engineer",
 	programmingLanguage: "Javascript",
 	technicalSkills: {
 		frontend: ["React", "Redux", "SASS", "Material-UI"],
