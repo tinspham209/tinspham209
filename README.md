@@ -57,7 +57,7 @@ const tinspham = {
 
 ### Scientific Research Projects:
 
-- [ Expert-driven Smart Dashboard Application](http://sda-research.ml): Apply multi-dimensional data cubes to synthesize, analyze, filter, and visualize data in the environment (climate, population, industry,...) of Vietnam: [Repository](https://github.com/sdateamdtu2020/SDA-v2.0)
+- [ Expert-driven Smart Dashboard Application](http://sda-research.ml): Building a Data Warehouse gathered from Vietnam's environmental data sources, and a Dashboard to help environmental experts and policymakers synthesize and visualize data directly and easily. [Repository](https://github.com/sdateamdtu2020/SDA-v2.0)
 
 ### Connect with me: <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="30px">
 
