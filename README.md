@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! I'm Tins 👨‍💻
 
-<p>
+<p align="right">
 	<a href="https://github.com/tinspham209">
 		<img src="https://komarev.com/ghpvc/?username=tinspham209">
 	</a>
@@ -45,7 +45,7 @@ const tinspham = {
 
 - Frontend Web Developer at [TopDup](https://github.com/forummlcb/topdup)
 - Freelance Instructor
-- <a href="http://blog.tinspham.info">My Blog</a> where I can share my favorite topics via blog posts.
+- <a href="http://blog.tinspham.info">My Blog</a>, the place I keep notes of what I learnt and what I accomplished.
 - Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/)
 - Co-Founder of [NOOR Coffee & Tea](https://www.noordn.cf)
 
