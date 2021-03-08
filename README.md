@@ -44,11 +44,11 @@ const tinspham = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working:
 
-- TechStartup at [Trolynhaxe.com](https://docs.google.com/document/d/1LsIpya08ExY_l_oleha4EQu18UOn9pfEBm8yqmaih7s/edit)
+- Tech-Startup at [Trolynhaxe.com](https://docs.google.com/document/d/1LsIpya08ExY_l_oleha4EQu18UOn9pfEBm8yqmaih7s/edit)
 - Freelance Instructor
-- Freelance Web Developer
 - <a href="http://blog.tinspham.info">My Blog</a>, the place I keep notes of what I learnt and what I accomplished.
 - Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/)
+- Freelance Web Developer
 
 ### Scientific Research Projects:
 
@@ -58,7 +58,7 @@ const tinspham = {
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Projects for teaching:
 
 - 50 Projects to learn HTML/CSS, JavaScript DOM Manipulation: [Repository](https://github.com/tinspham209/50projects50days)
-- 23 Projects to learn ReactJS: [Repository](https://github.com/tinspham209/23-projects-react)
+- 23 Projects to learn ReactJS Hooks: [Repository](https://github.com/tinspham209/23-projects-react)
 - Daily UI: [Repository](https://github.com/tinspham209/daily-ui)
 
 ### Connect with me: <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="30px">
