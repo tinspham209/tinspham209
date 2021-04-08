@@ -13,9 +13,7 @@ const tinspham = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working:
 
-- Software Engineering Intern at [DataHouse Asia](https://datahouse.asia/)
 - Tech-Startup at [Trolynhaxe.com](https://docs.google.com/document/d/1LsIpya08ExY_l_oleha4EQu18UOn9pfEBm8yqmaih7s/edit)
-- Freelance Instructor
 - Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/)
 - Freelance Web Developer
 
