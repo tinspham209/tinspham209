@@ -13,9 +13,10 @@ const tinspham = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working:
 
-- Tech-Startup at [Trolynhaxe.com](https://docs.google.com/document/d/1LsIpya08ExY_l_oleha4EQu18UOn9pfEBm8yqmaih7s/edit)
-- Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/)
-- Freelance Web Developer
+- Software Engineer Intern at [mgm technology partners vietnam](https://www.mgm-tp.com/en/) (May/2021 - Present)
+- Tech-Startup at [Trolynhaxe.com](https://trolynhaxe.com/) (Feb/2021 - Present)
+- Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/) (Aug/2020 - Present)
+- Freelance Web Developer (Jul/2020 - Present)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Open Source Work Stats:
 
