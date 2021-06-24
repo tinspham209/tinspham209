@@ -13,7 +13,7 @@ const tinspham = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working:
 
-- Software Engineer Intern at [mgm technology partners vietnam](https://www.mgm-tp.com/en/) (May/2021 - Present)
+- Tech-Startup at [TaptapOn.Me](https://taptapon.me/) (May/2021 - Present)
 - Tech-Startup at [Trolynhaxe.com](https://trolynhaxe.com/) (Feb/2021 - Present)
 - Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/) (Aug/2020 - Present)
 - Freelance Web Developer (Jul/2020 - Present)
