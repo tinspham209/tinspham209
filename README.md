@@ -16,7 +16,6 @@ const tinspham = {
 - Software Engineer Intern at [DataHouse Asia](https://datahouse.asia/) (Jul/2021 - Present)
 - Tech-Startup at [TaptapOn.Me](https://taptapon.me/) (May/2021 - Present)
 - Tech-Startup at [Trolynhaxe.com](https://trolynhaxe.com/) (Feb/2021 - Present)
-- Scientific Research Student at [Duy Tan University](https://duytan.edu.vn/) (Aug/2020 - Present)
 - Freelance Web Developer (Jul/2020 - Present)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Open Source Work Stats:
