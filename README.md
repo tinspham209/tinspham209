@@ -22,12 +22,11 @@ const tinspham = {
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
 	<tr>
-		<td align="left">
+		<td align="left" width="50%">
 			<img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=tinspham209" />
-			<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 		</td>
-		<td align="left">
-			<img align='right' src="https://github.com/wladimirgrf/wladimirgrf/raw/main/.github/assets/coding.gif"/>
+		<td align="left" width="50%">
+			<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 		</td>
 	</tr>
 </table>
