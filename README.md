@@ -6,8 +6,7 @@ const tinspham = {
   name: "Pham Van Tin",
   location: "Da Nang city, Vietnam",
   language: ["Vietnamese", "English"],
-  education: "BSc from Duy Tan University",
-  major: "Software Engineer",
+  education: "B.S in Software Engineer from Duy Tan University",
 };
 ```
 
