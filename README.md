@@ -33,8 +33,8 @@ const tinspham = {
 ### Connect with me: <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="30px">
 
 <p>
-	<a href="https://tinspham.info/" target="_blank">
-		<img alt="Website" src="https://img.shields.io/badge/.-www.tinspham.info-ff69b4?style=flat&logo=google-chrome">
+	<a href="https://tinspham.dev/" target="_blank">
+		<img alt="Website" src="https://img.shields.io/badge/.-www.tinspham.dev-ff69b4?style=flat&logo=google-chrome">
 	</a>
 	<a href="https://www.linkedin.com/in/phamvantins/" target="_blank">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/.-@phamvantins-lightgrey?style=flat&logo=linkedin">
