@@ -7,13 +7,13 @@ const tinspham = {
   location: "Da Nang city, Vietnam",
   language: ["Vietnamese", "English"],
   education: "B.S in Software Engineer from Duy Tan University",
-  major: "Front-end Web Developer"
+  major: "Front-end Developer"
 };
 ```
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working:
 
-- Software Engineer at [DataHouse Technology Vietnam](https://datahouse.asia/) (Jul/2021 - Present)
+- Software Engineer at [DataHouse Asia](https://datahouse.asia/) (Jul/2021 - Present)
 - Tech-Startup at [TaptapOn.Me](https://taptapon.me/) (May/2021 - Present)
 - Freelance Web Developer (Jul/2020 - Present)
 
