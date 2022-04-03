@@ -3,7 +3,7 @@
 ```js
 const tinspham = {
   pronouns: "He" | "Him",
-  name: "Pham Van Tin",
+  name: "Tin, Pham Van",
   location: "Da Nang city, Vietnam",
   language: ["Vietnamese", "English"],
   education: "B.S in Software Engineer from Duy Tan University",
@@ -15,7 +15,7 @@ const tinspham = {
 
 - Software Engineer at [DataHouse Asia](https://datahouse.asia/) (Jul/2021 - Present)
 - Tech-Startup at [TaptapOn.Me](https://taptapon.me/) (May/2021 - Present)
-- Freelance Web Developer (Jul/2020 - Present)
+- Freelance Web Developer
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Open Source Work Stats:
 
