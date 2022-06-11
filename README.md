@@ -1,4 +1,4 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30px"/> A little more about me...
+### A little more about me...
 
 ```js
 const tinspham = {
@@ -11,13 +11,13 @@ const tinspham = {
 };
 ```
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working:
+### Working:
 
 - Software Engineer at [DataHouse Asia](https://datahouse.asia/) (Jul/2021 - Present)
 - Tech-Startup at [TaptapOn.Me](https://taptapon.me/) (May/2021 - Present)
 - Freelance Web Developer
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Open Source Work Stats:
+### Open Source Work Stats:
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
 	<tr>
@@ -30,7 +30,7 @@ const tinspham = {
 	</tr>
 </table>
 
-### Connect with me: <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="30px">
+### Connect with me:
 
 <p>
 	<a href="https://tinspham.dev/" target="_blank">
