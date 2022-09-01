@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-# Hi, I'm Tins
 
-### A little more about me...
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> A little more about me...
 
 ```jsx
 const tinspham = {
@@ -24,6 +22,7 @@ const tinspham = {
     },
     {
       title: "Tech-Startup",
+      role: "Fullstack Developer",
       location: "TaptapOn.Me - www.taptapon.me",
       time: "May/2021 - Present"
     },
