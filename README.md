@@ -1,34 +1,35 @@
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+# Hi, I'm Tins
+
 ### A little more about me...
 
-```js
+```jsx
 const tinspham = {
   pronouns: "He" | "Him",
   name: "Tin, Pham Van",
   location: "Da Nang city, Vietnam",
   language: ["Vietnamese", "English"],
-  education: "B.S in Software Engineer from Duy Tan University",
-  major: "Front-end Developer"
+  education: {
+    major: "Bachelor of Software Engineering",
+    location: "Duy Tan University",
+    time: "2017 - 2021"
+  },
+  working: [
+    {
+      title: "Software Engineering",
+      role: "Front-end Developer (React, React Native, Angular)",
+      location: "DataHouse Asia - www.datahouse.asia",
+      time: "Jul/2021 - Present"
+    },
+    {
+      title: "Tech-Startup",
+      location: "TaptapOn.Me - www.taptapon.me",
+      time: "May/2021 - Present"
+    },
+  ]
 };
 ```
-
-### Working:
-
-- Software Engineer at [DataHouse Asia](https://datahouse.asia/) (Jul/2021 - Present)
-- Tech-Startup at [TaptapOn.Me](https://taptapon.me/) (May/2021 - Present)
-- Freelance Web Developer
-
-### Open Source Work Stats:
-
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
-	<tr>
-		<td align="left" width="50%">
-			<img align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=tinspham209" />
-		</td>
-		<td align="left" width="50%">
-			<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-		</td>
-	</tr>
-</table>
 
 ### Connect with me:
 
@@ -43,8 +44,9 @@ const tinspham = {
 		<img alt="Email" src="https://img.shields.io/badge/.-tinphamvan123@gmail.com-orange?style=flat&logo=gmail">
 	</a>
 </p>
-<p align="left">
-	<a href="https://github.com/tinspham209">
-		<img src="https://komarev.com/ghpvc/?username=tinspham209">
-	</a>
-</p>
+
+### Open Source Work Stats:
+<a href="https://tinspham.dev">
+	<img height="150px" src="https://github-readme-stats.vercel.app/api?username=tinspham209&show_icons=true&hide_title=true&hide_border=true" />
+	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinspham209&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
+</a>
