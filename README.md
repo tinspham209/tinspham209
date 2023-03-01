@@ -16,14 +16,14 @@ const tinspham = {
   working: [
     {
       title: "Software Engineering",
-      role: "Front-end Developer (React, React Native, Angular)",
+      role: "Front-end Developer (React, React Native)",
       location: "DataHouse Asia - www.datahouse.asia",
       time: "Jul/2021 - Present"
     },
     {
       title: "Tech-Startup",
       role: "Fullstack Developer",
-      location: "TaptapOn.Me - www.taptapon.me",
+      location: "TaptapOn.Me - www.taptapon.me, INUT Design - www.inutdesign.com",
       time: "May/2021 - Present"
     },
   ]
