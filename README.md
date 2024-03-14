@@ -17,8 +17,8 @@ const tinspham = {
     {
       title: "Software Engineering",
       role: "Front-end Developer (React, React Native)",
-      location: "DataHouse Asia - www.datahouse.asia",
-      time: "Jul/2021 - Mar/2023"
+      location: "DataHouse Asia - www.datahouse.com",
+      time: "Jul/2021 - Present"
     },
     {
       title: "Tech-Startup",
