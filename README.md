@@ -16,7 +16,6 @@ const tinspham = {
   working: [
     {
       title: "Software Engineering",
-      role: "Front-end Developer,
       location: "DataHouse - www.datahouse.com",
       time: "Jul/2021 - Present"
     }
