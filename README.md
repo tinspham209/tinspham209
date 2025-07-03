@@ -15,9 +15,14 @@ const tinspham = {
   },
   working: [
     {
+      title: "Full-Stack Developer",
+      location: "ONE Tech Stop - www.ots.one-line.com",
+      time: "Jun/2025 - Present"
+    },
+    {
       title: "Software Engineering",
       location: "DataHouse - www.datahouse.com",
-      time: "Jul/2021 - Present"
+      time: "Jul/2021 - May/2025"
     }
   ]
 };
@@ -30,10 +35,10 @@ const tinspham = {
 		<img alt="Website" src="https://img.shields.io/badge/.-www.tinspham.dev-ff69b4?style=flat&logo=google-chrome">
 	</a>
 	<a href="https://www.linkedin.com/in/phamvantins/" target="_blank">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/.-@phamvantins-lightgrey?style=flat&logo=linkedin">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-@phamvantins-blue">
 	</a>
 	<a href="mailto:tinphamvan123@gmail.com">
-		<img alt="Email" src="https://img.shields.io/badge/.-tinphamvan123@gmail.com-orange?style=flat&logo=gmail">
+		<img alt="Email" src="https://img.shields.io/badge/mail-tinphamvan123@gmail.com-orange">
 	</a>
 </p>
 
