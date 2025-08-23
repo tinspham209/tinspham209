@@ -8,14 +8,9 @@ const tinspham = {
   name: "Tin, Pham Van",
   location: "Da Nang city, Vietnam",
   language: ["Vietnamese", "English"],
-  education: {
-    major: "Bachelor of Software Engineering",
-    location: "Duy Tan University",
-    time: "2017 - 2021"
-  },
   working: [
     {
-      title: "Full-Stack Developer",
+      title: "Full-Stack Developer at Design System team",
       location: "ONE Tech Stop - www.ots.one-line.com",
       time: "Jun/2025 - Present"
     },
@@ -24,7 +19,12 @@ const tinspham = {
       location: "DataHouse - www.datahouse.com",
       time: "Jul/2021 - May/2025"
     }
-  ]
+  ],
+  education: {
+    major: "Bachelor of Software Engineering",
+    location: "Duy Tan University",
+    time: "2017 - 2021"
+  }
 };
 ```
 
@@ -44,6 +44,5 @@ const tinspham = {
 
 ### Open Source Work Stats:
 <a href="https://tinspham.dev" target="_blank" rel="noopener noreferrer">
-	<img height="150px" src="https://github-readme-stats.vercel.app/api?username=tinspham209&show_icons=true&hide_title=true&hide_border=true" />
 	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinspham209&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
 </a>
