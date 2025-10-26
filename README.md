@@ -11,7 +11,7 @@ const tinspham = {
   working: [
     {
       title: "Full-Stack Developer",
-      team: "Design System"
+      team: "Design System",
       location: "ONE Tech Stop - www.ots.one-line.com",
       time: "Jun/2025 - Present"
     },
