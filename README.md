@@ -12,12 +12,14 @@ const tinspham = {
     {
       title: "Full-Stack Developer",
       team: "Design System",
-      location: "ONE Tech Stop - www.ots.one-line.com",
+      company: "ONE Tech Stop",
+      website: "www.ots.one-line.com",
       time: "Jun/2025 - Present"
     },
     {
       title: "Software Engineering",
-      location: "DataHouse - www.datahouse.com",
+      company: "DataHouse",
+      website: "www.datahouse.com",
       time: "Jul/2021 - May/2025"
     }
   ],
