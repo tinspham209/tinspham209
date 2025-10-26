@@ -47,3 +47,15 @@ const tinspham = {
 <a href="https://tinspham.dev" target="_blank" rel="noopener noreferrer">
 	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinspham209&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
 </a>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
