@@ -10,16 +10,17 @@ const tinspham = {
   language: ["Vietnamese", "English"],
   working: [
     {
+	  company: "ONE Tech Stop",
+      website: "www.ots.one-line.com",
       title: "Full-Stack Developer",
       team: "Design System",
-      company: "ONE Tech Stop",
-      website: "www.ots.one-line.com",
       time: "Jun/2025 - Present"
     },
     {
-      title: "Software Engineering",
       company: "DataHouse",
       website: "www.datahouse.com",
+      title: "Software Engineering",
+      team: ["VizPlatform", "LumiSight"],
       time: "Jul/2021 - May/2025"
     }
   ],
