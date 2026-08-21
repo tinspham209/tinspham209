@@ -1,19 +1,18 @@
-
-
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> A little more about me...
 
 ```jsx
 const tinspham = {
   pronouns: "He" | "Him",
   name: "Tin, Pham Van",
+  birthday: "20 Sep 1999",
   location: "Da Nang city, Vietnam",
   language: ["Vietnamese", "English"],
   working: [
     {
 	  company: "ONE Tech Stop",
-      website: "www.ots.one-line.com",
+      website: "https://ots.one-line.com",
       title: "Full-Stack Developer",
-      team: "Design System",
+      team: ["Design System", "Unicorn"],
       time: "Jun/2025 - Present"
     },
     {
@@ -46,7 +45,7 @@ const tinspham = {
 	</a>
 </p>
 
-### Open Source Work Stats:
+### Work Stats:
 <a href="https://tinspham.dev" target="_blank" rel="noopener noreferrer">
 	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinspham209&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
 </a>
